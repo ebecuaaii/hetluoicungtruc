@@ -2,95 +2,95 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on HBS (Hugo Theme Bootstrap) v1</title>
-    <link>http://localhost:1313/en/tags/</link>
+    <link>https://hbs.razonyang.com/v1/en/tags/</link>
     <description>Recent content in Tags on HBS (Hugo Theme Bootstrap) v1</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright © 2016-{year} Razon Yang. All Rights Reserved.</copyright>
     <lastBuildDate>Wed, 01 Sep 2021 11:36:50 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hbs.razonyang.com/v1/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Diagram</title>
-      <link>http://localhost:1313/en/tags/diagram/</link>
+      <link>https://hbs.razonyang.com/v1/en/tags/diagram/</link>
       <pubDate>Wed, 01 Sep 2021 11:36:50 +0800</pubDate>
-      <guid>http://localhost:1313/en/tags/diagram/</guid>
+      <guid>https://hbs.razonyang.com/v1/en/tags/diagram/</guid>
       <description></description>
     </item>
     <item>
       <title>CSS</title>
-      <link>http://localhost:1313/en/tags/css/</link>
+      <link>https://hbs.razonyang.com/v1/en/tags/css/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/css/</guid>
+      <guid>https://hbs.razonyang.com/v1/en/tags/css/</guid>
       <description></description>
     </item>
     <item>
       <title>HTML</title>
-      <link>http://localhost:1313/en/tags/html/</link>
+      <link>https://hbs.razonyang.com/v1/en/tags/html/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/html/</guid>
+      <guid>https://hbs.razonyang.com/v1/en/tags/html/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>http://localhost:1313/en/tags/markdown/</link>
+      <link>https://hbs.razonyang.com/v1/en/tags/markdown/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/markdown/</guid>
+      <guid>https://hbs.razonyang.com/v1/en/tags/markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Instagram</title>
-      <link>http://localhost:1313/en/tags/instagram/</link>
+      <link>https://hbs.razonyang.com/v1/en/tags/instagram/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/instagram/</guid>
+      <guid>https://hbs.razonyang.com/v1/en/tags/instagram/</guid>
       <description></description>
     </item>
     <item>
       <title>Privacy</title>
-      <link>http://localhost:1313/en/tags/privacy/</link>
+      <link>https://hbs.razonyang.com/v1/en/tags/privacy/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/privacy/</guid>
+      <guid>https://hbs.razonyang.com/v1/en/tags/privacy/</guid>
       <description></description>
     </item>
     <item>
       <title>Twitter</title>
-      <link>http://localhost:1313/en/tags/twitter/</link>
+      <link>https://hbs.razonyang.com/v1/en/tags/twitter/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/twitter/</guid>
+      <guid>https://hbs.razonyang.com/v1/en/tags/twitter/</guid>
       <description></description>
     </item>
     <item>
       <title>Vimeo</title>
-      <link>http://localhost:1313/en/tags/vimeo/</link>
+      <link>https://hbs.razonyang.com/v1/en/tags/vimeo/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/vimeo/</guid>
+      <guid>https://hbs.razonyang.com/v1/en/tags/vimeo/</guid>
       <description></description>
     </item>
     <item>
       <title>YouTube</title>
-      <link>http://localhost:1313/en/tags/youtube/</link>
+      <link>https://hbs.razonyang.com/v1/en/tags/youtube/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/youtube/</guid>
+      <guid>https://hbs.razonyang.com/v1/en/tags/youtube/</guid>
       <description></description>
     </item>
     <item>
       <title>Text</title>
-      <link>http://localhost:1313/en/tags/text/</link>
+      <link>https://hbs.razonyang.com/v1/en/tags/text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/text/</guid>
+      <guid>https://hbs.razonyang.com/v1/en/tags/text/</guid>
       <description></description>
     </item>
     <item>
       <title>Math</title>
-      <link>http://localhost:1313/en/tags/math/</link>
+      <link>https://hbs.razonyang.com/v1/en/tags/math/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/math/</guid>
+      <guid>https://hbs.razonyang.com/v1/en/tags/math/</guid>
       <description></description>
     </item>
     <item>
       <title>Emoji</title>
-      <link>http://localhost:1313/en/tags/emoji/</link>
+      <link>https://hbs.razonyang.com/v1/en/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/emoji/</guid>
+      <guid>https://hbs.razonyang.com/v1/en/tags/emoji/</guid>
       <description></description>
     </item>
   </channel>

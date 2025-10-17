@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>标签 on Hugo Bootstrap</title>
-    <link>http://localhost:1313/zh-hans/tags/</link>
+    <link>https://hbs.razonyang.com/v1/zh-hans/tags/</link>
     <description>Recent content in 标签 on Hugo Bootstrap</description>
     <generator>Hugo</generator>
     <language>zh-hans</language>
     <copyright>Copyright © 2016-{year} Razon Yang. All Rights Reserved.</copyright>
     <lastBuildDate>Mon, 09 Nov 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-hans/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hbs.razonyang.com/v1/zh-hans/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CSS</title>
-      <link>http://localhost:1313/zh-hans/tags/css/</link>
+      <link>https://hbs.razonyang.com/v1/zh-hans/tags/css/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-hans/tags/css/</guid>
+      <guid>https://hbs.razonyang.com/v1/zh-hans/tags/css/</guid>
       <description></description>
     </item>
     <item>
       <title>HTML</title>
-      <link>http://localhost:1313/zh-hans/tags/html/</link>
+      <link>https://hbs.razonyang.com/v1/zh-hans/tags/html/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-hans/tags/html/</guid>
+      <guid>https://hbs.razonyang.com/v1/zh-hans/tags/html/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>http://localhost:1313/zh-hans/tags/markdown/</link>
+      <link>https://hbs.razonyang.com/v1/zh-hans/tags/markdown/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh-hans/tags/markdown/</guid>
+      <guid>https://hbs.razonyang.com/v1/zh-hans/tags/markdown/</guid>
       <description></description>
     </item>
   </channel>
