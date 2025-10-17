@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Razon Yang on Hugo Bootstrap</title>
-    <link>https://hbs.razonyang.com/v1/ja/authors/razonyang/</link>
+    <link>http://localhost:1313/ja/authors/razonyang/</link>
     <description>Recent content in Razon Yang on Hugo Bootstrap</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <copyright>Copyright © 2016-{year} Razon Yang. All Rights Reserved.</copyright>
-    <atom:link href="https://hbs.razonyang.com/v1/ja/authors/razonyang/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ja/authors/razonyang/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

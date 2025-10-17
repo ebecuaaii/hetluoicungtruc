@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>標籤 on Hugo Bootstrap</title>
-    <link>https://hbs.razonyang.com/v1/zh-hant/tags/</link>
+    <link>http://localhost:1313/zh-hant/tags/</link>
     <description>Recent content in 標籤 on Hugo Bootstrap</description>
     <generator>Hugo</generator>
     <language>zh-hant</language>
     <copyright>Copyright © 2016-{year} Razon Yang. All Rights Reserved.</copyright>
     <lastBuildDate>Mon, 09 Nov 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://hbs.razonyang.com/v1/zh-hant/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-hant/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CSS</title>
-      <link>https://hbs.razonyang.com/v1/zh-hant/tags/css/</link>
+      <link>http://localhost:1313/zh-hant/tags/css/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://hbs.razonyang.com/v1/zh-hant/tags/css/</guid>
+      <guid>http://localhost:1313/zh-hant/tags/css/</guid>
       <description></description>
     </item>
     <item>
       <title>HTML</title>
-      <link>https://hbs.razonyang.com/v1/zh-hant/tags/html/</link>
+      <link>http://localhost:1313/zh-hant/tags/html/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://hbs.razonyang.com/v1/zh-hant/tags/html/</guid>
+      <guid>http://localhost:1313/zh-hant/tags/html/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>https://hbs.razonyang.com/v1/zh-hant/tags/markdown/</link>
+      <link>http://localhost:1313/zh-hant/tags/markdown/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://hbs.razonyang.com/v1/zh-hant/tags/markdown/</guid>
+      <guid>http://localhost:1313/zh-hant/tags/markdown/</guid>
       <description></description>
     </item>
   </channel>

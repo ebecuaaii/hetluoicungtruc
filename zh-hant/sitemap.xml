@@ -2,596 +2,596 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hbs.razonyang.com/v1/zh-hant/tags/css/</loc>
+    <loc>http://localhost:1313/zh-hant/tags/css/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs.razonyang.com/v1/en/tags/css/"
+                href="http://localhost:1313/en/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hbs.razonyang.com/v1/fr/tags/css/"
+                href="http://localhost:1313/fr/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs.razonyang.com/v1/zh-hans/tags/css/"
+                href="http://localhost:1313/zh-hans/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://hbs.razonyang.com/v1/ar/tags/css/"
+                href="http://localhost:1313/ar/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hant"
-                href="https://hbs.razonyang.com/v1/zh-hant/tags/css/"
+                href="http://localhost:1313/zh-hant/tags/css/"
                 />
   </url><url>
-    <loc>https://hbs.razonyang.com/v1/zh-hant/tags/html/</loc>
+    <loc>http://localhost:1313/zh-hant/tags/html/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs.razonyang.com/v1/en/tags/html/"
+                href="http://localhost:1313/en/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hbs.razonyang.com/v1/fr/tags/html/"
+                href="http://localhost:1313/fr/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs.razonyang.com/v1/zh-hans/tags/html/"
+                href="http://localhost:1313/zh-hans/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://hbs.razonyang.com/v1/ar/tags/html/"
+                href="http://localhost:1313/ar/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hant"
-                href="https://hbs.razonyang.com/v1/zh-hant/tags/html/"
+                href="http://localhost:1313/zh-hant/tags/html/"
                 />
   </url><url>
-    <loc>https://hbs.razonyang.com/v1/zh-hant/authors/hugo/</loc>
+    <loc>http://localhost:1313/zh-hant/authors/hugo/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs.razonyang.com/v1/en/authors/hugo/"
+                href="http://localhost:1313/en/authors/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hbs.razonyang.com/v1/fr/authors/hugo/"
+                href="http://localhost:1313/fr/authors/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs.razonyang.com/v1/zh-hans/authors/hugo/"
+                href="http://localhost:1313/zh-hans/authors/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://hbs.razonyang.com/v1/ar/authors/hugo/"
+                href="http://localhost:1313/ar/authors/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hbs.razonyang.com/v1/ja/authors/hugo/"
+                href="http://localhost:1313/ja/authors/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hant"
-                href="https://hbs.razonyang.com/v1/zh-hant/authors/hugo/"
+                href="http://localhost:1313/zh-hant/authors/hugo/"
                 />
   </url><url>
-    <loc>https://hbs.razonyang.com/v1/zh-hant/</loc>
+    <loc>http://localhost:1313/zh-hant/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs.razonyang.com/v1/en/"
+                href="http://localhost:1313/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hbs.razonyang.com/v1/fr/"
+                href="http://localhost:1313/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs.razonyang.com/v1/zh-hans/"
+                href="http://localhost:1313/zh-hans/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://hbs.razonyang.com/v1/ar/"
+                href="http://localhost:1313/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hbs.razonyang.com/v1/ja/"
+                href="http://localhost:1313/ja/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hant"
-                href="https://hbs.razonyang.com/v1/zh-hant/"
+                href="http://localhost:1313/zh-hant/"
                 />
   </url><url>
-    <loc>https://hbs.razonyang.com/v1/zh-hant/tags/markdown/</loc>
+    <loc>http://localhost:1313/zh-hant/tags/markdown/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs.razonyang.com/v1/en/tags/markdown/"
+                href="http://localhost:1313/en/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hbs.razonyang.com/v1/fr/tags/markdown/"
+                href="http://localhost:1313/fr/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs.razonyang.com/v1/zh-hans/tags/markdown/"
+                href="http://localhost:1313/zh-hans/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hant"
-                href="https://hbs.razonyang.com/v1/zh-hant/tags/markdown/"
+                href="http://localhost:1313/zh-hant/tags/markdown/"
                 />
   </url><url>
-    <loc>https://hbs.razonyang.com/v1/zh-hant/posts/markdown-syntax/</loc>
+    <loc>http://localhost:1313/zh-hant/posts/markdown-syntax/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs.razonyang.com/v1/en/posts/markdown-syntax/"
+                href="http://localhost:1313/en/posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hbs.razonyang.com/v1/fr/posts/markdown-syntax/"
+                href="http://localhost:1313/fr/posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs.razonyang.com/v1/zh-hans/posts/markdown-syntax/"
+                href="http://localhost:1313/zh-hans/posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://hbs.razonyang.com/v1/ar/posts/markdown-syntax/"
+                href="http://localhost:1313/ar/posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hant"
-                href="https://hbs.razonyang.com/v1/zh-hant/posts/markdown-syntax/"
+                href="http://localhost:1313/zh-hant/posts/markdown-syntax/"
                 />
   </url><url>
-    <loc>https://hbs.razonyang.com/v1/zh-hant/posts/</loc>
+    <loc>http://localhost:1313/zh-hant/posts/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs.razonyang.com/v1/en/posts/"
+                href="http://localhost:1313/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hbs.razonyang.com/v1/fr/posts/"
+                href="http://localhost:1313/fr/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs.razonyang.com/v1/zh-hans/posts/"
+                href="http://localhost:1313/zh-hans/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://hbs.razonyang.com/v1/ar/posts/"
+                href="http://localhost:1313/ar/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hbs.razonyang.com/v1/ja/posts/"
+                href="http://localhost:1313/ja/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hant"
-                href="https://hbs.razonyang.com/v1/zh-hant/posts/"
+                href="http://localhost:1313/zh-hant/posts/"
                 />
   </url><url>
-    <loc>https://hbs.razonyang.com/v1/zh-hant/series/%E6%96%87%E6%AA%94/</loc>
+    <loc>http://localhost:1313/zh-hant/series/%E6%96%87%E6%AA%94/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hbs.razonyang.com/v1/zh-hant/authors/</loc>
-    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hbs.razonyang.com/v1/en/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://hbs.razonyang.com/v1/fr/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hans"
-                href="https://hbs.razonyang.com/v1/zh-hans/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://hbs.razonyang.com/v1/ar/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://hbs.razonyang.com/v1/ja/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant"
-                href="https://hbs.razonyang.com/v1/zh-hant/authors/"
-                />
-  </url><url>
-    <loc>https://hbs.razonyang.com/v1/zh-hant/series/</loc>
+    <loc>http://localhost:1313/zh-hant/authors/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs.razonyang.com/v1/en/series/"
+                href="http://localhost:1313/en/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hbs.razonyang.com/v1/fr/series/"
+                href="http://localhost:1313/fr/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs.razonyang.com/v1/zh-hans/series/"
+                href="http://localhost:1313/zh-hans/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://hbs.razonyang.com/v1/ar/series/"
+                href="http://localhost:1313/ar/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hbs.razonyang.com/v1/ja/series/"
+                href="http://localhost:1313/ja/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hant"
-                href="https://hbs.razonyang.com/v1/zh-hant/series/"
+                href="http://localhost:1313/zh-hant/authors/"
                 />
   </url><url>
-    <loc>https://hbs.razonyang.com/v1/zh-hant/tags/</loc>
+    <loc>http://localhost:1313/zh-hant/series/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs.razonyang.com/v1/en/tags/"
+                href="http://localhost:1313/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hbs.razonyang.com/v1/fr/tags/"
+                href="http://localhost:1313/fr/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs.razonyang.com/v1/zh-hans/tags/"
+                href="http://localhost:1313/zh-hans/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://hbs.razonyang.com/v1/ar/tags/"
+                href="http://localhost:1313/ar/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hbs.razonyang.com/v1/ja/tags/"
+                href="http://localhost:1313/ja/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hant"
-                href="https://hbs.razonyang.com/v1/zh-hant/tags/"
+                href="http://localhost:1313/zh-hant/series/"
                 />
   </url><url>
-    <loc>https://hbs.razonyang.com/v1/zh-hant/archives/2019/</loc>
+    <loc>http://localhost:1313/zh-hant/tags/</loc>
+    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs.razonyang.com/v1/en/archives/2019/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hans"
-                href="https://hbs.razonyang.com/v1/zh-hans/archives/2019/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://hbs.razonyang.com/v1/ja/archives/2019/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant"
-                href="https://hbs.razonyang.com/v1/zh-hant/archives/2019/"
-                />
-  </url><url>
-    <loc>https://hbs.razonyang.com/v1/zh-hant/archives/2020/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hbs.razonyang.com/v1/en/archives/2020/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hans"
-                href="https://hbs.razonyang.com/v1/zh-hans/archives/2020/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://hbs.razonyang.com/v1/ja/archives/2020/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant"
-                href="https://hbs.razonyang.com/v1/zh-hant/archives/2020/"
-                />
-  </url><url>
-    <loc>https://hbs.razonyang.com/v1/zh-hant/archives/2021/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hbs.razonyang.com/v1/en/archives/2021/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hans"
-                href="https://hbs.razonyang.com/v1/zh-hans/archives/2021/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://hbs.razonyang.com/v1/ja/archives/2021/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant"
-                href="https://hbs.razonyang.com/v1/zh-hant/archives/2021/"
-                />
-  </url><url>
-    <loc>https://hbs.razonyang.com/v1/zh-hant/archives/2022/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hbs.razonyang.com/v1/en/archives/2022/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hans"
-                href="https://hbs.razonyang.com/v1/zh-hans/archives/2022/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://hbs.razonyang.com/v1/ja/archives/2022/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant"
-                href="https://hbs.razonyang.com/v1/zh-hant/archives/2022/"
-                />
-  </url><url>
-    <loc>https://hbs.razonyang.com/v1/zh-hant/archives/2023/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hbs.razonyang.com/v1/en/archives/2023/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hans"
-                href="https://hbs.razonyang.com/v1/zh-hans/archives/2023/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://hbs.razonyang.com/v1/ja/archives/2023/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant"
-                href="https://hbs.razonyang.com/v1/zh-hant/archives/2023/"
-                />
-  </url><url>
-    <loc>https://hbs.razonyang.com/v1/zh-hant/offline/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hbs.razonyang.com/v1/en/offline/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hans"
-                href="https://hbs.razonyang.com/v1/zh-hans/offline/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://hbs.razonyang.com/v1/ja/offline/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant"
-                href="https://hbs.razonyang.com/v1/zh-hant/offline/"
-                />
-  </url><url>
-    <loc>https://hbs.razonyang.com/v1/zh-hant/authors/razonyang/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hbs.razonyang.com/v1/en/authors/razonyang/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hans"
-                href="https://hbs.razonyang.com/v1/zh-hans/authors/razonyang/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://hbs.razonyang.com/v1/ja/authors/razonyang/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant"
-                href="https://hbs.razonyang.com/v1/zh-hant/authors/razonyang/"
-                />
-  </url><url>
-    <loc>https://hbs.razonyang.com/v1/zh-hant/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hbs.razonyang.com/v1/en/categories/"
+                href="http://localhost:1313/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hbs.razonyang.com/v1/fr/categories/"
+                href="http://localhost:1313/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs.razonyang.com/v1/zh-hans/categories/"
+                href="http://localhost:1313/zh-hans/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://hbs.razonyang.com/v1/ar/categories/"
+                href="http://localhost:1313/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hbs.razonyang.com/v1/ja/categories/"
+                href="http://localhost:1313/ja/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hant"
-                href="https://hbs.razonyang.com/v1/zh-hant/categories/"
+                href="http://localhost:1313/zh-hant/tags/"
                 />
   </url><url>
-    <loc>https://hbs.razonyang.com/v1/zh-hant/faq/</loc>
+    <loc>http://localhost:1313/zh-hant/archives/2019/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs.razonyang.com/v1/en/faq/"
+                href="http://localhost:1313/en/archives/2019/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs.razonyang.com/v1/zh-hans/faq/"
+                href="http://localhost:1313/zh-hans/archives/2019/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hbs.razonyang.com/v1/ja/faq/"
+                href="http://localhost:1313/ja/archives/2019/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hant"
-                href="https://hbs.razonyang.com/v1/zh-hant/faq/"
+                href="http://localhost:1313/zh-hant/archives/2019/"
                 />
   </url><url>
-    <loc>https://hbs.razonyang.com/v1/zh-hant/search/</loc>
+    <loc>http://localhost:1313/zh-hant/archives/2020/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs.razonyang.com/v1/en/search/"
+                href="http://localhost:1313/en/archives/2020/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="http://localhost:1313/zh-hans/archives/2020/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://localhost:1313/ja/archives/2020/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="http://localhost:1313/zh-hant/archives/2020/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/zh-hant/archives/2021/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/archives/2021/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="http://localhost:1313/zh-hans/archives/2021/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://localhost:1313/ja/archives/2021/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="http://localhost:1313/zh-hant/archives/2021/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/zh-hant/archives/2022/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/archives/2022/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="http://localhost:1313/zh-hans/archives/2022/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://localhost:1313/ja/archives/2022/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="http://localhost:1313/zh-hant/archives/2022/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/zh-hant/archives/2023/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/archives/2023/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="http://localhost:1313/zh-hans/archives/2023/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://localhost:1313/ja/archives/2023/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="http://localhost:1313/zh-hant/archives/2023/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/zh-hant/offline/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/offline/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="http://localhost:1313/zh-hans/offline/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://localhost:1313/ja/offline/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="http://localhost:1313/zh-hant/offline/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/zh-hant/authors/razonyang/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/authors/razonyang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="http://localhost:1313/zh-hans/authors/razonyang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://localhost:1313/ja/authors/razonyang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="http://localhost:1313/zh-hant/authors/razonyang/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/zh-hant/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hbs.razonyang.com/v1/fr/search/"
+                href="http://localhost:1313/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs.razonyang.com/v1/zh-hans/search/"
+                href="http://localhost:1313/zh-hans/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hbs.razonyang.com/v1/ja/search/"
+                href="http://localhost:1313/ja/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hant"
-                href="https://hbs.razonyang.com/v1/zh-hant/search/"
+                href="http://localhost:1313/zh-hant/categories/"
                 />
   </url><url>
-    <loc>https://hbs.razonyang.com/v1/zh-hant/contact/</loc>
+    <loc>http://localhost:1313/zh-hant/faq/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs.razonyang.com/v1/en/contact/"
+                href="http://localhost:1313/en/faq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs.razonyang.com/v1/zh-hans/contact/"
+                href="http://localhost:1313/zh-hans/faq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hbs.razonyang.com/v1/ja/contact/"
+                href="http://localhost:1313/ja/faq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hant"
-                href="https://hbs.razonyang.com/v1/zh-hant/contact/"
+                href="http://localhost:1313/zh-hant/faq/"
                 />
   </url><url>
-    <loc>https://hbs.razonyang.com/v1/zh-hant/archives/</loc>
+    <loc>http://localhost:1313/zh-hant/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hbs.razonyang.com/v1/en/archives/"
+                href="http://localhost:1313/en/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hbs.razonyang.com/v1/fr/archives/"
+                href="http://localhost:1313/fr/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
-                href="https://hbs.razonyang.com/v1/zh-hans/archives/"
+                href="http://localhost:1313/zh-hans/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hbs.razonyang.com/v1/ja/archives/"
+                href="http://localhost:1313/ja/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hant"
-                href="https://hbs.razonyang.com/v1/zh-hant/archives/"
+                href="http://localhost:1313/zh-hant/search/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/zh-hant/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="http://localhost:1313/zh-hans/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://localhost:1313/ja/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="http://localhost:1313/zh-hant/contact/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/zh-hant/archives/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="http://localhost:1313/zh-hans/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://localhost:1313/ja/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="http://localhost:1313/zh-hant/archives/"
                 />
   </url>
 </urlset>

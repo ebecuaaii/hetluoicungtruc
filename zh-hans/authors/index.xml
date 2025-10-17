@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>作者 on Hugo Bootstrap</title>
-    <link>https://hbs.razonyang.com/v1/zh-hans/authors/</link>
+    <link>http://localhost:1313/zh-hans/authors/</link>
     <description>Recent content in 作者 on Hugo Bootstrap</description>
     <generator>Hugo</generator>
     <language>zh-hans</language>
     <copyright>Copyright © 2016-{year} Razon Yang. All Rights Reserved.</copyright>
     <lastBuildDate>Mon, 09 Nov 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://hbs.razonyang.com/v1/zh-hans/authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-hans/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo Authors</title>
-      <link>https://hbs.razonyang.com/v1/zh-hans/authors/hugo/</link>
+      <link>http://localhost:1313/zh-hans/authors/hugo/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://hbs.razonyang.com/v1/zh-hans/authors/hugo/</guid>
+      <guid>http://localhost:1313/zh-hans/authors/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>Razon Yang</title>
-      <link>https://hbs.razonyang.com/v1/zh-hans/authors/razonyang/</link>
+      <link>http://localhost:1313/zh-hans/authors/razonyang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hbs.razonyang.com/v1/zh-hans/authors/razonyang/</guid>
+      <guid>http://localhost:1313/zh-hans/authors/razonyang/</guid>
       <description></description>
     </item>
   </channel>
