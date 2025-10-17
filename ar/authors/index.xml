@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on HBS (Hugo Theme Bootstrap) v1</title>
+    <link>https://hbs.razonyang.com/v1/ar/authors/</link>
+    <description>Recent content in Authors on HBS (Hugo Theme Bootstrap) v1</description>
+    <generator>Hugo</generator>
+    <language>ar</language>
+    <copyright>Copyright © 2016-{year} Razon Yang. All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 09 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://hbs.razonyang.com/v1/ar/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo</title>
+      <link>https://hbs.razonyang.com/v1/ar/authors/hugo/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://hbs.razonyang.com/v1/ar/authors/hugo/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
